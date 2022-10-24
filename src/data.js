@@ -1,3 +1,4 @@
+//added export in front of const
 export const receipt1 = {
   person: "Karolin",
   order: {
@@ -37,5 +38,3 @@ export const receipt3 = {
   },
   paid: true
 };
-
-//added export in front of const

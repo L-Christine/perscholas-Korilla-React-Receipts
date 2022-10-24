@@ -1,6 +1,6 @@
 const Receipt = (props) => {
   console.log(props.receipt);
-  const { person, order, paid } = props.receiptP;
+  const { person, order, paid } = props.receiptProp;
   return (
     <div>
       <h1>{person}</h1>
